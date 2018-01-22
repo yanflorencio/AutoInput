@@ -1,0 +1,72 @@
+PADRAO
+0
+IDIOMAS
+0
+Arquivo
+Configuração
+Adicionar Perfil
+Deletar Perfil
+Salvar Perfil
+Idioma
+Diretório
+Perfil
+Intervalo de Execuções
+Horas
+Minutos
+Segundos
+Execução
+Parar Execução:
+Parar execução automaticamente
+Número de repetições:
+Desligar o PC automaticamente
+Executar
+Captura
+Parar Captura:
+Capturar
+Deseja realmente excluir?
+Perfil Deletado
+Excluir Perfil
+Digite o nome do novo perfil: 
+Novo Perfil
+Nome inválido!
+Português
+Inglês
+Escolha um Idioma: 
+Seleção de Idiomas
+Capturando...
+Clique em OK para cancelar o desligamento.
+
+1
+File
+Options
+Add Profile
+Delete Profile
+Save Profile
+Language
+Directory
+Profile
+Range of Executions
+Hours
+Minutes
+Seconds
+Execution
+Stop Execution:
+Automatically stop running
+Number of repetitions:
+Turn off the PC automatically
+Run
+Catch
+Stop Capture:
+Capture
+Really delete?
+Deleted Profile
+Delete Profile
+Enter the name of the new profile: 
+New Profile
+Invalid Name!
+Portuguese
+English
+Choose a Language: 
+Language Selection
+Capturing...
+Click OK to cancel the shutdown.
